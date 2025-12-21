@@ -1,6 +1,8 @@
 #pragma once
 
+#ifdef USE_ARDUINO
 #include <Arduino.h>
+#endif
 
 #include "RollingCodeStorage.h"
 
