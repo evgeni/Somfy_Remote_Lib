@@ -1,0 +1,21 @@
+{
+  "name": "Somfy_Remote_Lib",
+  "version": "0.5.0",
+  "description": "Emulate a Somfy remote using a 433.42 MHz transmitter",
+  "keywords": "somfy",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Legion2/Somfy_Remote_Lib.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Leon Kiefer"
+    }
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Legion2/Somfy_Remote_Lib",
+  "frameworks": "*",
+  "platforms": "*"
+}
